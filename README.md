@@ -8,9 +8,7 @@ Then run it and select --> "Multiple windows" (Next) --> "Start no client" (Next
 
 
 
-2. Login to comnetsemu by running the VM named "next_generation_of_networks.vmx" which is located under the folder named "networking_vagrant":
-
-comnetsemu login: vagrant, Password: vagrant
+2. Login to comnetsemu by running the VM named "next_generation_of_networks.vmx" which is located under the folder named "networking_vagrant": comnetsemu login: vagrant, Password: vagrant
 
 
 
