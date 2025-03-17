@@ -1,6 +1,6 @@
 # Digital-Twin-for-SDN-Networks
 
-## !!!HOW TO START THE PROJECT!!!: In order to start the project, you need to download the comnetsemu virtual machine labs from (https://www.granelli-lab.org/researches/relevant-projects/comnetsemu-labs). Then follow the below steps!
+## !!! HOW TO START THE PROJECT !!!: In order to start the project, you need to download the comnetsemu virtual machine labs from (https://www.granelli-lab.org/researches/relevant-projects/comnetsemu-labs). Then follow the below steps!
 
 1. As I am running my vagrant setup on the VMware Workstation 17 player, I had to download the helper software called "XLaunch" to make my Windows machine be able to communicate with it and understand on which port the vagrant is running. This is not required on each Windows machine but there might be need to also make it for your computer. Therefore download "XLaunch" software from: https://sourceforge.net/projects/xming/
 
@@ -8,7 +8,7 @@ Then run it and select --> "Multiple windows" (Next) --> "Start no client" (Next
 
 
 
-2. Login to comnetsemu by running the VM named comnetsemu.vmx". Remember to improt the custom scripts into the virtual machine. The correct folder path is: " ~/comnetsemu_dependencies/ryu-v4.34/ryu/ryu/app ":
+2. Login to comnetsemu by running the VM named comnetsemu.vmx". Remember to import the custom scripts into the virtual machine. The correct folder path is: " ~/comnetsemu_dependencies/ryu-v4.34/ryu/ryu/app ":
 
 comnetsemu login: vagrant, Password: vagrant
 
